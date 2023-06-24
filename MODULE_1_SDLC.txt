@@ -1,0 +1,76 @@
+                                   MODULE: 1 (SDLC)
+
+
+1.What is software? What is software engineering? 
+
+ANS:-
+      "Software is a set of instructions, data or programs used to operate computers and execute specific tasks."
+
+what is software engineering:-
+
+*Software Engineering Tutorial delivers basic and advanced concepts of Software Engineering.
+*Software Engineering Tutorial is designed to help beginners and professionals both.
+*Software Engineering provides a standard procedure to design and develop a software.
+*The software is a collection of integrated programs.
+*Software subsists of carefully-organized instructions and code written by developers on any of various particular computer languages.
+*Computer programs and related documentation such as requirements, design models and user manuals.
+*Engineering is the application of scientific and practical knowledge to invent, design, build, maintain, and improve frameworks, processes, etc.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+2.Explain types of software?
+
+ANS:-
+     1.application software
+     2.programming software
+     3.middle ware
+     4.gaming software
+     5.driving software
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+3.What is SDLC? Explain each phase of SDLC?
+
+ANS:-
+     "Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares."
+
+phase of SDLC:-
+        
+      1.s/w requirement
+      2.s/w analysis
+      3.s/w designing
+      4.s/w development
+      5.s/w testing(quality assurance)tester
+      6.s/w maintenance
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+4.What is DFD?
+
+ANS:-
+
+*FULL FORM:-"DATA FLOW DIAGRAM"
+*Data flow diagrams are used to graphically represent the flow of data in a business information system.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+5.What is Flow chart? Create a flowchart to make addition of two numbers?
+
+ANS:-
+      "flowchart is a pictorial representation of algorithms."
+
+       SCENARIO 1:-TO MAKE ADDITION OF TWO NUMBERS.
+
+STEP 1:-start
+STEP 2:-Take inputs(take two value of a and b,a=10 and b=20)
+STEP 3:-Process of addition
+STEP 4:-Output(value of 30)
+STEP 5:-Stop
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
